@@ -45,12 +45,10 @@ src/
 │   ├── DataContext.tsx      # Veri yönetimi ve API çağrıları
 │   └── ThemeContext.tsx     # Tema yönetimi
 ├── pages/
-│   ├── home.tsx             # Ana sayfa
-│   └── world-time-detail.tsx # Zaman dilimi detay sayfası
-├── styles/
-│   └── global.css           # Genel stil dosyası
+│   ├── Home.tsx             # Ana sayfa
+│   └── WorldTimeDetail.tsx # Zaman dilimi detay sayfası
 ├── users.json               # Kullanıcı bilgileri
-└── index.tsx                # Uygulama giriş noktası
+└── main.tsx                # Uygulama giriş noktası
 ```
 
 ---
