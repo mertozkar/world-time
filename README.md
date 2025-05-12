@@ -1,6 +1,16 @@
-# Optimus World Time
+# World Time
 
-Optimus World Time, dünya saatlerini görüntülemek ve zaman dilimlerini yönetmek için geliştirilmiş bir React uygulamasıdır.
+World Time, dünya saatlerini görüntülemek ve zaman dilimlerini yönetmek için geliştirilmiş bir React uygulamasıdır.
+
+---
+
+## 📖 Özellikler
+
+- Kullanıcı giriş sistemi (misafir veya kayıtlı kullanıcı).
+- Kullanıcının `theme` (light/dark) ayarına göre otomatik tema seçimi.
+- Zaman dilimlerini listeleme ve arama.
+- Infinite scroll ile zaman dilimlerini yükleme.
+- Zaman dilimi detaylarını görüntüleme.
 
 ---
 
@@ -50,8 +60,8 @@ src/
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/<kullanıcı-adınız>/optimus-world-time.git
-cd optimus-world-time
+git clone https://github.com/mertozkar/world-time.git
+cd world-time
 ```
 
 ### 2. Gerekli Bağımlılıkları Yükleyin
@@ -73,15 +83,5 @@ Tarayıcınızda şu adresi açın:
 ```
 http://localhost:5173
 ```
-
----
-
-## 📖 Özellikler
-
-- Kullanıcı giriş sistemi (misafir veya kayıtlı kullanıcı).
-- Kullanıcının `theme` (light/dark) ayarına göre otomatik tema seçimi.
-- Zaman dilimlerini listeleme ve arama.
-- Infinite scroll ile zaman dilimlerini yükleme.
-- Zaman dilimi detaylarını görüntüleme.
 
 ---
