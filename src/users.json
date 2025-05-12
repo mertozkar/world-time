@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "username": "optimus",
+    "password": "123456",
+    "name": "Optimus",
+    "timezone": "Europe/Istanbul",
+    "theme": "dark",
+    "is24Hour": true,
+    "dateFormat": "DD/MM/YYYY"
+  },
+  {
+    "id": 2,
+    "username": "guest",
+    "password": "guest",
+    "name": "Misafir Kullanıcı",
+    "timezone": "Europe/Istanbul",
+    "theme": "light",
+    "is24Hour": true,
+    "dateFormat": "DD/MM/YYYY"
+  }
+] 
